@@ -11,5 +11,5 @@ Asynchronous
 Webpack
 babel
 axios
-fractonal
+fractional
 uniqid
