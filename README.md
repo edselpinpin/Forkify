@@ -5,6 +5,8 @@ Data on both the shopping list and favorites are stored using localstorage so it
 
 Powered by https://forkify-api.herokuapp.com created by Jonas Shcmedtmann
 
+Run the app here -> https://edselpinpin.github.io/Forkify/
+
 Technology/Dependencies/Libraries 
 javascript ES6, HTML, CSS
 Asynchronous 
