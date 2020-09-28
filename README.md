@@ -5,7 +5,7 @@ Data on both the shopping list and favorites are stored using localstorage so it
 
 Powered by https://forkify-api.herokuapp.com created by Jonas Shcmedtmann
 
-https://edselpinpin.github.io/Forkify/dist/index.html
+Try it here -->  https://edselpinpin.github.io/Forkify/dist/index.html
 
 
 
