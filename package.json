@@ -30,5 +30,5 @@
     "fractional": "^1.0.0",
     "uniqid": "^5.2.0"
   }
-},
-"publishConfig": { "registry": "https://npm.pkg.github.com/edselpinpin" }
+}
+
